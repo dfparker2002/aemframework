@@ -1,7 +1,7 @@
 # aem_framework
 This Framework separates the back end with front end by having a specific java class for every specific component.
 
-##The Framework: This is the framework which will help us in seperating the front end from backend 
+# The Framework: This is the framework which will help us in seperating the front end from backend 
 
 1.)The Component which we created to be used in the page.
 
@@ -9,7 +9,7 @@ This Framework separates the back end with front end by having a specific java c
 
 3.)ViewHelper which is the main interface for fetching all the implicit objects from the component jsp into the respectie helper class.
 
-##Example Component is NameComponent and its corresponding view helper is NameViewHelper and there mapping can be seen in "aemframework.core.config.ComponentViewMapper"
+# Example Component is NameComponent and its corresponding view helper is NameViewHelper and there mapping can be seen in "aemframework.core.config.ComponentViewMapper"
 
 # Sample AEM project template
 
